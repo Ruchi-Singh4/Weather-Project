@@ -4,6 +4,9 @@
 ## Overview
 The **Weather App** is a web application that allows users to check the current weather conditions for any city. Built with HTML, CSS, and JavaScript, the app fetches weather data from the OpenWeather API and displays it in a user-friendly interface. 
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/60aae408-b91a-4986-a0dc-6f528bb87354)
+
 ## Features
 - **Real-Time Weather Updates**: 
   - Get current temperature, humidity, wind speed, and more.
@@ -34,8 +37,8 @@ cd weather-app
 ### Step 3: Open the project in your browser
 - Open `index.html` in your preferred web browser to use the weather app.
 
-## Screenshots
-- ![Example of Weather App](link-to-your-screenshot)
+
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
